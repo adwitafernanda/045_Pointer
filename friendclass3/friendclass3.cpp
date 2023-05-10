@@ -29,5 +29,5 @@ int main()
 	m.showNilaiPelajar(p);
 	cout << endl;
 	system("\npause");
-	return 0;
+	return 0; 
 }
