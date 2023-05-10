@@ -15,6 +15,6 @@ int main()
 	mhs->nim = 2;
 	mhs->showNim();
 	delete mhs;
-	system("paause");
+	system("pause");
 	return 0;
 }
